@@ -16,3 +16,9 @@ To install iAdPlus into your app, drag the following files into your project:
 Make sure that you include the iAd.framework in your project also.
 
 Then simply inherit a UIViewController from the AdViewContoller class instead of directly from UIViewController.
+
+You will also need to configure iAds in iTunes Connect before you submit your app to Apple.  Please go here for more information: 
+https://developer.apple.com/appstore/resources/iad/index.html
+https://developer.apple.com/appstore/resources/iad/index.html#prepare
+
+You will need to be logged in to iTunesConnect view these documents.
