@@ -8,9 +8,9 @@
 //  Copyright (c) 2012 Software101. All rights reserved.
 //
 //  Distributed under the permissive zlib License
-//  Get the latest version from either of these locations:
+//  Get the latest version from either of this location:
 //
-//  https://github.com/software101/iAdPlus
+//  https://github.com/oPJo/iAdPlus
 //
 //  This software is provided 'as-is', without any express or implied
 //  warranty.  In no event will the authors be held liable for any damages
