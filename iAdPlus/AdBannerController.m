@@ -10,7 +10,7 @@
 //  Distributed under the permissive zlib License
 //  Get the latest version from either of this location:
 //
-//  https://github.com/oPJo/iAdPlus
+//  https://github.com/pjcook/iAdPlus
 //
 //  This software is provided 'as-is', without any express or implied
 //  warranty.  In no event will the authors be held liable for any damages
